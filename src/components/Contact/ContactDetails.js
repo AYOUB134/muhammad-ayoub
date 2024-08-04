@@ -57,7 +57,7 @@ const ContactDetails = () => {
                     href="mailto:himanshuchandolaofficial@gmail.com"
                     className="font-normal text-blue-700 dark:text-blue-400 dark:hover:text-blue-500 hover:text-blue-800 flex items-center"
                   >
-                    himanshuchandolaofficial@gmail.com{" "}
+                    imamirzsheikh@gmail.com{" "}
                     <span className="ml-1">
                       <BiLinkExternal />
                     </span>
@@ -132,7 +132,7 @@ const ContactDetails = () => {
                     href="https://www.linkedin.com/in/himanshuchandola/"
                     className="font-normal text-blue-700 dark:text-blue-400 dark:hover:text-blue-500 hover:text-blue-800  flex items-center"
                   >
-                    linkedin.com/in/himanshuchandola
+                    https://www.linkedin.com/in/a-sheikh-656186209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
                     <span className="ml-1">
                       <BiLinkExternal />
                     </span>
@@ -152,7 +152,7 @@ const ContactDetails = () => {
                     href="https://github.com/himanshuchandola"
                     className="font-normal text-blue-700 dark:text-blue-400 dark:hover:text-blue-500 hover:text-blue-800  flex items-center"
                   >
-                    github.com/himanshuchandola
+                   https://github.com/sheikhgit07
                     <span className="ml-1">
                       <BiLinkExternal />
                     </span>
