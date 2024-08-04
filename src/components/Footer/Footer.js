@@ -9,22 +9,22 @@ const socialLinks = [
   {
     id: 2,
     icon: <FiGithub />,
-    url: "https://www.github.com/himanshuchandola",
+    url: "https://github.com/sheikhgit07",
   },
   {
     id: 4,
     icon: <FiLinkedin />,
-    url: "https://www.linkedin.com/in/himanshuchandola/",
+    url: "https://www.linkedin.com/in/a-sheikh-656186209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
-  {
-    id: 6,
-    icon: <PeerlistIcon style={{ width: "24px", height: "24px" }} />,
-    url: "https://peerlist.io/himanshuhere",
-  },
+  // {
+  //   id: 6,
+  //   icon: <PeerlistIcon style={{ width: "24px", height: "24px" }} />,
+  //   url: "https://peerlist.io/himanshuhere",
+  // },
   {
     id: 5,
     icon: <MdEmail />,
-    url: "mailto:himanshuchandolaofficial@gmail.com",
+    url: "mailto:imamirzsheikh@gmail.com",
   },
 ];
 

@@ -94,7 +94,7 @@ const Projects = () => {
       <span>
         For More Projects and Other work visit my{" "}
         <a
-          href="https://github.com/himanshuchandola?tab=repositories&q=&type=source&language=&sort="
+          href="https://github.com/sheikhgit07"
           style={{ fontWeight: "bold", color: "red" }}
         >
           GitHub
