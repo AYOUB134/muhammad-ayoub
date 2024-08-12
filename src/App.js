@@ -4,7 +4,6 @@ import SkillsPage from "./components/Skills/SkillsPage";
 import { motion } from "framer-motion";
 import PreLoader from "./components/Loader/Loader";
 import HeaderNav from "./components/Header/HeaderNav";
-
 import Projects from "./components/Projects/Projects";
 import { Toaster } from "react-hot-toast";
 import About from "./components/About/About";

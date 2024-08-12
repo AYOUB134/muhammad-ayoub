@@ -26,7 +26,7 @@ const SkillsDescription = () => {
       >
         In the expansive field of web development, I've acquired diverse
         experience in &nbsp;
-        <span className="font-semibold">Full Stack Web and App Developer</span>
+        <span className="font-semibold">MERN Stack Developer</span>
       </motion.p>
 
       <motion.h2
@@ -50,14 +50,14 @@ const SkillsDescription = () => {
 
 
 
-      <motion.h2
+      {/* <motion.h2
         initial={{ x: 50, opacity: 0 }}
         transition={{ duration: 1 }}
         whileInView={{ opacity: 1, x: 0 }}
         viewport={{ once: true }}
         className="font-medium text-lg text-amber-500 dark:text-amber-200 mt-5"
-      >
-        <Reveal width="100%">App Development</Reveal>
+      > */}
+        {/* <Reveal width="100%">App Development</Reveal>
       </motion.h2>
       <motion.p
         initial={{ x: 50, opacity: 0 }}
@@ -67,7 +67,7 @@ const SkillsDescription = () => {
         className="text-sm font-light"
       >
       I am passionate about developing clean, minimalistic, and user-friendly mobile applications. With expertise in Swift for iOS and Kotlin for Android, I create attractive and valuable solutions that are intuitive and efficient, ensuring seamless user experiences.
-      </motion.p>
+      </motion.p> */}
 
       {/* <div className="flex">
         <div className="">

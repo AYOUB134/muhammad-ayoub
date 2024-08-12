@@ -14,7 +14,7 @@ const About = () => {
     <Section
       id="about"
       title="Overview"
-      subtitle="Full Stack Web and App Developer"
+      subtitle="MERN Stack Developer"
       className="relative"
     >
       <img
@@ -43,11 +43,11 @@ const About = () => {
             <Reveal width="100%">Here's a Little Background.</Reveal>
           </h4>
           <div className="bg-white dark:bg-[#101111] p-5 rounded-3xl shadow-lg shadow-gray-400/50 dark:shadow-black/30 ">
-            <p className="text-base font-light">
-              Hi, I am <span className="font-semibold">Amir Aziz Sheikh</span>{" "}
-              I am a{" "}
-              <span className="font-semibold"> Full Stack Web and App Developer</span>. With over 7 years of experience. I specialize in Swift and Kotlin for app development and am proficient in a wide range of web technologies. I am currently seeking new opportunities to leverage my skills in software and web development, dedicated to transforming innovative visions into reality through efficient and high-quality code.
-            </p>
+          <p className="text-base font-light">
+            Hi, I am <span className="font-semibold">MUHAMMAD AYOUB</span>. I am a{" "}
+            <span className="font-semibold">Full Stack Web Developer</span> with over 2 years of experience. I specialize in a wide range of web technologies. I am currently seeking new opportunities to leverage my skills in web development, dedicated to transforming innovative visions into reality through efficient and high-quality code.
+          </p>
+
           </div>
 
           <h4 className="text-2xl font-medium text-amber-600 dark:text-amber-300">
@@ -60,8 +60,8 @@ const About = () => {
                 <HiOutlineBuildingOffice className="h-5 w-5 text-white" />
               </div>
             }
-            title=" March 2018 - January 2023 "
-            desc="FullStack App  Developer in Milescube software technology company."
+            title=" March 2021 - January 2022 "
+            desc="Front-End Web Traineer (Code-Fleet bahawalpur)"
           />
 
           <FeaturedCard
@@ -70,12 +70,12 @@ const About = () => {
                 <HiOutlineBuildingOffice className="h-5 w-5 text-white" />
               </div>
             }
-            title=" March 2018 - January 2023 "
-            desc="FullStack Web Developer in Milescube software technology company."
+            title=" March 2023 - July 2024"
+            desc="FullStack Web Developer in MTAI SOFTWARE LAB."
           />
 
 
-     <FeaturedCard
+     {/* <FeaturedCard
             icon={
               <div className="rounded-xl bg-amber-400 p-3.5 dark:bg-amber-400">
                 <HiOutlineBuildingOffice className="h-5 w-5 text-white" />
@@ -83,10 +83,10 @@ const About = () => {
             }
             title=" March 2018 - January 2024  "
             desc="FullStack Web & App Developer(Part Time) in digiweb (Albanian company) "
-          />
+          /> */}
 
 
-          
+{/*           
      <FeaturedCard
             icon={
               <div className="rounded-xl bg-amber-400 p-3.5 dark:bg-amber-400">
@@ -95,7 +95,7 @@ const About = () => {
             }
             title=" Feb 2020 - Apr 2024  "
             desc="React Native & Node Js in Freelancing Platform "
-          />
+          /> */}
 
 
 
@@ -110,8 +110,8 @@ const About = () => {
                 <FaGraduationCap className="h-5 w-5 text-white" />
               </div>
             }
-            title="2013 - 2017"
-            desc="Graduation in Computer Science from Punjab University Lahore"
+            title="2020 - 2024"
+            desc=" Software Engineer from Islamia University of Bahawalpur"
           />
         </motion.div>
       </motion.div>

@@ -5,41 +5,83 @@ import Featured from "./Featured";
 import Section from "../Common/Section";
 import ProjectCard from "./ProjectCard";
 import RightSvg from "../../assets/svg/right-pattern.svg";
-
+import Fhd from './fahadmotors.PNG'
+import skillzin from './skillzin.PNG'
+import foodWeb from './foodWeb.PNG'
+import citymedical from './citymedical.PNG'
+import MTAI2 from './MTAI2.PNG'
+import ecom from './ecom.PNG'
 export const projectsData = [
   {
-    id: 1,
-    thumbnail: "https://i.imgur.com/UEqATGm.jpeg",
-    title: "E-Paper Amar Ujala ",
-    description: "Amar Ujala Hindi E-Newspaper with all available cities.",
-    live: "https://epaper-amar-ujala-hindi.netlify.app/",
-    code: "https://github.com/himanshuchandola/Amar-Ujala-E-Paper",
+    id: 5,
+    thumbnail:
+    MTAI2,
+    title: "MTAI Software Lab",
+    description:
+      "Software company that Work with Web and App Technology",
+    live: "https://mtai.live/",
+    code: "https://github.com/AYOUB134/TEFTA",
     tech: ["React.js"],
     featured: false,
   },
   {
-    id: 2,
-    thumbnail: "https://i.imgur.com/GzAhqVA.png",
-    title: "Track My Expenses ",
+    id: 6,
+    thumbnail:
+    ecom,
+    title: "E-comm Website",
     description:
-      "Track My Expenses is a web app that helps to manage your personal Expenses with beautiful utilities like charts and calculative paying of dues.",
-    live: "https://track-my-expenses-4th-sem-project-gehu.netlify.app/",
-    code: "https://github.com/himanshuchandola/Track-My-Expenses",
+      "E-comm Web From My learning Purpose",
+    live: "flipkartweb-mern.vercel.app",
+    code: "https://github.com/AYOUB134",
+    tech: ["MERN Stack"],
+    featured: false,
+  },
+  {
+    id: 1,
+    thumbnail: Fhd,
+    title: "Fahad Motors ",
+    description: "Manage All Customers, Dues of Customers, Total income, Expenses",
+    live: "https://fahadmotors.vercel.app/",
+    code: "https://github.com/AYOUB134/fahad-client",
+    tech: ["MERN STACK"],
+    featured: false,
+  },
+  {
+    id: 2,
+    thumbnail: skillzin,
+    title: "SkillZen ",
+    description:
+      "Advance Freelancing Training Institute",
+    live: "https://skillzenbuilder.vercel.app/",
+    code: "https://github.com/AYOUB134/skillzenbuilder",
     tech: ["React.js"],
     featured: false,
   },
   {
     id: 3,
     thumbnail:
-      "https://raw.githubusercontent.com/himanshuchandola/E-Voting-Web-System/main/readme%20images/image-007.jpg",
-    title: "Matdaan - E-Voting System ",
+    foodWeb,
+    title: "Food Web App ",
     description:
-      "A Interactive Way To Solve Conventional Voting via E-Voting. ",
-    live: "https://github.com/himanshuchandola/E-Voting-Web-System",
-    code: "https://github.com/himanshuchandola/E-Voting-Web-System",
-    tech: ["HTMl5, PHP, CSS3, Bootstrap, MySQL"],
+      "Order Your Food In a restaurant (its just App Responsive) ",
+    live: "https://food-web-app-steel.vercel.app/",
+    code: "https://github.com/AYOUB134/food-web-app",
+    tech: ["React.js"],
     featured: false,
   },
+  {
+    id: 4,
+    thumbnail:
+    citymedical,
+    title: "Hospital Patient Management System ",
+    description:
+      "Manage Ptient Detial ,Status (In, Out) , Bills , Income , Expenses",
+    live: "https://citymedicaljatoi.vercel.app/home",
+    code: "https://github.com/AYOUB134/city-client",
+    tech: ["MERN Stack"],
+    featured: false,
+  },
+ 
 ];
 
 const Projects = () => {

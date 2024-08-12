@@ -57,7 +57,7 @@ const ContactDetails = () => {
                     href="mailto:himanshuchandolaofficial@gmail.com"
                     className="font-normal text-blue-700 dark:text-blue-400 dark:hover:text-blue-500 hover:text-blue-800 flex items-center"
                   >
-                    imamirzsheikh@gmail.com{" "}
+                    mayoub7114@gmail.com{" "}
                     <span className="ml-1">
                       <BiLinkExternal />
                     </span>
@@ -132,7 +132,7 @@ const ContactDetails = () => {
                     href="https://www.linkedin.com/in/himanshuchandola/"
                     className="font-normal text-blue-700 dark:text-blue-400 dark:hover:text-blue-500 hover:text-blue-800  flex items-center"
                   >
-                    https://www.linkedin.com/in/a-sheikh-656186209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+                  https://www.linkedin.com/in/muhammad-ayoub-43740920a/
                     <span className="ml-1">
                       <BiLinkExternal />
                     </span>
@@ -149,7 +149,7 @@ const ContactDetails = () => {
                 </th>
                 <td className="px-6 py-4">
                   <a
-                    href="https://github.com/himanshuchandola"
+                    href="https://github.com/AYOUB134"
                     className="font-normal text-blue-700 dark:text-blue-400 dark:hover:text-blue-500 hover:text-blue-800  flex items-center"
                   >
                    https://github.com/sheikhgit07

@@ -33,8 +33,8 @@ const HeaderNav = ({ darkMode, setDarkMode }) => {
               transition={{ duration: 0.5 }}
               className="text-3xl text-neutral-600 dark:text-neutral-300 font-normal cursor-pointer"
             >
-              Amir Aziz &nbsp;
-              <span className="font-extrabold text-amber-500">Sheikh</span>
+              MUHAMMAD  &nbsp;
+              <span className="font-extrabold text-amber-500">AYOUB</span>
             </motion.h1>
           </Link>
 

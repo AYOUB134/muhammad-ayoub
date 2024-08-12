@@ -9,12 +9,12 @@ const socialLinks = [
   {
     id: 2,
     icon: <FiGithub />,
-    url: "https://github.com/sheikhgit07",
+    url: "https://github.com/AYOUB134",
   },
   {
     id: 4,
     icon: <FiLinkedin />,
-    url: "https://www.linkedin.com/in/a-sheikh-656186209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    url: "https://www.linkedin.com/in/muhammad-ayoub-43740920a/",
   },
   // {
   //   id: 6,
@@ -24,7 +24,7 @@ const socialLinks = [
   {
     id: 5,
     icon: <MdEmail />,
-    url: "mailto:imamirzsheikh@gmail.com",
+    url: "mayoub7114@gmail.com",
   },
 ];
 

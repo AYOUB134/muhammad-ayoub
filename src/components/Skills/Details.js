@@ -23,9 +23,9 @@ const Details = () => {
         className="flex gap-2"
       >
         <Label indicator={80}>Javascript</Label>
-        <Label indicator={80}>Dart</Label>
-        <Label indicator={80}>Java</Label>
         <Label indicator={80}>Php</Label>
+        {/* <Label indicator={80}>Java</Label>
+        <Label indicator={80}>Php</Label> */}
         
       </motion.div>
 
@@ -47,10 +47,10 @@ const Details = () => {
       >
         <Label indicator={95}>MERN Stack</Label>
         <Label indicator={95}>MEAN Stack</Label>
-        <Label indicator={80}>MEVN Stack</Label>
+        {/* <Label indicator={80}>MEVN Stack</Label>
         <Label indicator={80}>iOS</Label>
         <Label indicator={80}>Android</Label>
-        <Label indicator={80}>Cross-Platform</Label>
+        <Label indicator={80}>Cross-Platform</Label> */}
         {/* <Label indicator={70}>Typescript</Label> */}
       </motion.div>
 
@@ -73,9 +73,9 @@ const Details = () => {
         <Label indicator={80}>Git</Label>
         <Label indicator={90}>GitHub</Label>
         <Label indicator={100}>VS Code</Label>
-        <Label indicator={100}>Xcode</Label>
+        {/* <Label indicator={100}>Xcode</Label>
         <Label indicator={70}>Android studio</Label>
-        <Label indicator={70}>Firebase</Label>
+        <Label indicator={70}>Firebase</Label> */}
       </motion.div>
     </div>
   );
